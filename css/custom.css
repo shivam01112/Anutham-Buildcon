@@ -1935,7 +1935,7 @@ margin-top: 67px;
 	flex-wrap: wrap;
 	justify-content: space-between;
 	flex-direction: column;
-	gap: 60px;
+	/* gap: 60px; */
 	background: var(--secondary-color);
 	border-radius: 10px;
 	height: calc(100% - 30px);
@@ -2010,7 +2010,7 @@ margin-top: 67px;
     position: absolute;
     left: 0;
     top: 8px;
-    background: var(--accent-color);
+    background: #000;
     width: 6px;
     height: 6px;
 }
